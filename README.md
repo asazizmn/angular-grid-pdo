@@ -1,1 +1,2 @@
 # angular-grid-pdo 
+Modified version of the 'angular-grid-mysqli' project, where 'PDO' is used instead of 'MySQLi'. Other than that, this grid still provides the original search, sort and paging capabilities using AngularJS + PHP (PDO) + MySQL.
