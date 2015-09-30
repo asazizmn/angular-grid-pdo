@@ -1,5 +1,5 @@
 <?php
-    include('../includes/config.php');
+    include('../includes/cnfg.php');
     $pdo = connect();
     
     // display the list of all users in table view

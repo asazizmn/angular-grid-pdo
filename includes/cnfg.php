@@ -1,6 +1,6 @@
 <?php
 /* 
- *  config.php - angular-grid
+ *  cnfg.php - angular-grid
  *  contains PDO (PHP Data Objects) connection logic
  *  
  *  Aziz | 21 Sep 2015
